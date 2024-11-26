@@ -4,7 +4,7 @@
 
     <groupId>nl.axians</groupId>
     <artifactId>owasp-sonar-maven-plugin</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>${project.groupId}:${project.artifactId}</name>
@@ -34,7 +34,7 @@
         <connection>scm:https://github.com/axians-oss/owasp-sonar-maven-plugin.git</connection>
         <developerConnection>scm:git:https://github.com/axians-oss/owasp-sonar-maven-plugin.git</developerConnection>
         <url>https://github.com/axians-oss/owasp-sonar-maven-plugin</url>
-      <tag>1.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
