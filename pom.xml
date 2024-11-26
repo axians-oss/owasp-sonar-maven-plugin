@@ -12,6 +12,7 @@
         Plugin which converts org.owasp:dependency-check-maven results to something that SonarCloud can deal with.
         See README.md for more details.
     </description>
+    <url>https://github.com/axians-oss/owasp-sonar-maven-plugin</url>
 
     <licenses>
         <license>
